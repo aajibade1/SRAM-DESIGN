@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      misaf3
+HostName                       ece-linlabsrv01.ece.gatech.edu
+ProcessIdentifier              2654150
+ProcessCreationTime_UTC        1666112947
+ProcessCreationTime_Readable   Tue Oct 18 13:09:07 2022 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /nethome/misaf3/ECE6130_Updated/ECE6130_LAB/6130Project/INV2/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Oct 18 13:12:55 2022 EDT
