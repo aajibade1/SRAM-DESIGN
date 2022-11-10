@@ -1,0 +1,20 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 11/10/2021 23:50 (sjfdcl1109) $
+\o Sub version:		sub-version  s226 
+\o Arguments:		-unmapped -mpssession virtuoso904926 -mpshost ece-linlab14.ece.gatech.edu 
+\o Working Directory:	ece-linlab14.ece.gatech.edu:/nethome/aajibade3/ECE6130/ECE6130_Updated/ECE6130_LAB/Cadence/6130Project
+\o 64-bit offsets
+\o Qt version: 		5.9.1
+\o changeWorkingDir("/nethome/aajibade3/ECE6130/ECE6130_Updated/ECE6130_LAB/Cadence/6130Project") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o Log file is "/nethome/aajibade3/ECE6130/ECE6130_Updated/ECE6130_LAB/Cadence/6130Project/libManager.log".
+\o Opening libManager window.
+\a nrSetWindowVisibility(cdsLibManager "show")
+\o MPS service: map window
+\o Library Manager customization server connected.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(595 259 796 580))
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\o MPS service: shutdown
+\o libManager is exiting.
+\a exit(0)
